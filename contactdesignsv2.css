@@ -1,0 +1,164 @@
+#firstname2{
+	font-family: HelveticaNeue;
+	color: white;
+	font-size: 40px;
+	position: relative;
+	top: -20px;
+	right: -5px;
+	overflow-y: auto;
+}
+
+#secondname2{
+	font-family: HelveticaNeue;
+	color: white;
+	font-size: 40px;
+	position: relative;
+	top: -95px;
+	right: -120px;
+	overflow-y: auto;
+}
+
+#imagen3{
+	position: relative;
+	top: -570px;
+	right: -220px;
+	overflow-y: auto;
+}
+
+
+#home_button1{
+	background-color: #313131;
+	color: white;
+	font-size: 25px;
+	border-color: white;
+	position: relative;
+	top: -1030px;
+	right: -1150px;
+	overflow-y: auto;
+}
+
+#projects_button{
+	background-color: #313131;
+	color: white;
+	font-size: 25px;
+	border-color: white;
+	position: relative;
+	top: -1072px;
+	right: -900px;
+	overflow-y: auto;
+}
+
+#aboutme_button{
+	background-color: #313131;
+	color: white;
+	font-size: 25px;
+	border-color: white;
+	position: relative;
+	top: -1112px;
+	right: -750px;
+	overflow-y: auto;
+}
+
+#background_image1{
+	height: 700px;
+	width: 1280px;
+	position: relative;
+	top: -1100px;
+	right: 0px;
+	z-index: none;
+	opacity: 0.5;
+	margin-bottom: -20px;
+	margin: 0;
+	padding: 0;
+	overflow-y: auto;
+}
+
+#contacto{
+	font-family: HelveticaNeue;
+	font-size: 50px;
+	color: white;
+	position: relative;
+	top: -1740px;
+	right: -400px;
+	overflow-y: auto;
+}
+
+#imagen2{
+	position: relative;
+	top: -2200px;
+	right: -200px;
+	overflow-y: auto;
+}
+
+#email{
+	font-family: HelveticaNeue;
+	color: white;
+	position: relative;
+	top: -2630px;
+	right: -300px;
+	overflow-y: auto;
+}
+
+#email1{
+	font-family: HelveticaNeue;
+	color: blue;
+	position: relative;
+	top: -2640px;
+	right: -300px;
+	overflow-y: auto;
+}
+
+#phone{
+	font-family: HelveticaNeue;
+	color: white;
+	position: relative;
+	top: -2620px;
+	right: -300px;
+	overflow-y: auto;
+}
+
+#phone_number{
+	font-family: HelveticaNeue;
+	color: white;
+	position: relative;
+	top: -2630px;
+	right: -300px;
+	overflow-y: auto;
+}
+
+#linkedin1{
+	font-family: HelveticaNeue;
+	color: white;
+	position: relative;
+	top: -2620px;
+	right: -300px;
+	overflow-y: auto;
+}
+
+#linkedin2{
+	font-family: HelveticaNeue;
+	color: white;
+	position: relative;
+	top: -2630px;
+	right: -300px;
+	overflow-y: auto;
+}
+
+#copyright{
+	font-family: HelveticaNeue;
+	color: white;
+	position: relative;
+	top: -2420px;
+	right: -545px;
+	overflow-y: auto;
+
+}
+
+
+html,body{
+	background-color: #313131;
+	margin: 0;
+	padding: 0;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
